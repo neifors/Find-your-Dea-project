@@ -1,6 +1,6 @@
 from math import sqrt
 import utm
-import geocoder
+# import geocoder
 
 
 # g = geocoder.ip("me")
